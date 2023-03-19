@@ -398,7 +398,6 @@ white-space: nowrap;
 .choissis{
     background-color: #99E2D0;
     width: 15%;
-    height: 100dvh;
     display:none;
     align-items: center;
     justify-content: center;
