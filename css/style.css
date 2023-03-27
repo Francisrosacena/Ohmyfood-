@@ -9,6 +9,13 @@ body {
     background-color: #F7F7F7;
     ;
 }
+.body-menu{
+    background-color:#FFF;
+}
+
+.main-menu{
+    margin-bottom: -50px;
+}
 
 .preload {
     animation: preloader 3s ease-in-out forwards;
@@ -438,7 +445,7 @@ img {
 .box {
     position: relative;
     background: #F7F7F7;
-    border-radius: 50px;
+    border-radius: 40px 40px 0px 0px;
     top: -50px;
     padding-top: 50px;
     z-index: 200;
